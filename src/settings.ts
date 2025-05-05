@@ -11,10 +11,10 @@ export const profile = {
 // Set equal to an empty string to hide the icon that you don't want to display
 export const social = {
 	email: '',
-	linkedin: '',
+	linkedin: 'https://linkedin.com/',
 	x: 'https://www.x.com/',
-	github: '',
-	gitlab: '',
+	github: 'https://github.com/',
+	gitlab: 'https://gitlab.com/',
 	scholar: '',
 	inspire: '',
 	arxiv: '',
@@ -26,7 +26,6 @@ export const template = {
 	transitions: true,
 	lightTheme: 'light', // Select one of the Daisy UI Themes or create your own
 	darkTheme: 'dark', // Select one of the Daisy UI Themes or create your own
-	testTheme: 'cupcake', // test
 	excerptLength: 200,
 	postPerPage: 5,
     base: '/astro_academia' // Repository name starting with /
