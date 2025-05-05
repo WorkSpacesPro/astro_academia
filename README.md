@@ -4,6 +4,7 @@ src/components/ui/Navbar.astro  logo
 
 src/pages/index.astro   img logo
 
+src/components/ui/Navbar.astro    Nav
 
 ## What is Astro Academia?
 
