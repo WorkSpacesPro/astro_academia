@@ -1,6 +1,9 @@
 # Astro Academia Documentation
 
-src/pages/index.astro  logo
+src/components/ui/Navbar.astro  logo
+
+src/pages/index.astro   img logo
+
 
 ## What is Astro Academia?
 
