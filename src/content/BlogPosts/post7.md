@@ -1,6 +1,6 @@
 ---
 title: "New Blog Post"
-date: "2025-10-01"
+date: "2025-01-01"
 tags: ["test", "测试"]
 excerpt: "Some short paragraphs"
 ---
