@@ -2,7 +2,7 @@
 title: "测试"
 date: "2025-01-01"
 tags: ["test", "测试"]
-excerpt: "Some short paragraphs"
+excerpt: "简介 内容"
 ---
 
 # New Blog Post
